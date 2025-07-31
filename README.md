@@ -5,7 +5,7 @@ Este repositorio guía a estudiantes y desarrolladores en el uso de **Astah UML 
 ---
 
 ## Actividad 1 
-![Image_Alt](https://github.com/papo888/AREM-astah/blob/95bcdf5cf32575af077273feb2cdbaaf2f4480a0/l_page-0001.jpg?raw=true)
+![Image_Alt](https://github.com/papo888/AREM-astah/blob/ac54507d04cd91c707a97898609cfa2a315657c9/Ejemplo1.jpg)
 
 
 ## 🧩 ¿Qué es Astah UML?
